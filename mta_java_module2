@@ -3,5 +3,7 @@
 docker container stop movieplex7
 docker container rm movieplex7
 cd ..
+cd javaee-demo
+
 more react-client/Dockerfile
 ./add_ee_pwd_host.sh
